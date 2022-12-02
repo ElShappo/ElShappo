@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I am Deni! I am a 3rd year Computer Science student at NRNU MEPhi  👋
+
+- 🔭 I’m currently working on Quasagram project
+- 🌱 I’m currently learning Typescript and Node.JS
+- :floppy_disk: I'm fond of using JavaScript, Sequelize ORM with PostgreSQL, Vue.JS, Quasar, HMTL/CSS, C++, Java 
+- 📫 How to reach me: deni.shaipp@gmail.com
 
 <!--
 **deni-ops/deni-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Quasagram project
+- 🌱 I’m currently learning Typescript with Node.JS
+- 👯 I’m looking to collaborate on backend and frontend tasks
+- 📫 How to reach me: deni.shaipp@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
