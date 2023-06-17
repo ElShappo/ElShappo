@@ -1,4 +1,4 @@
-### Hi there, I am Deni!👋 I am a 4th year Computer Science student at NRNU MEPhi
+### Hi there, I am Deni!👋 I am a 4th year Applied Maths student at NRNU MEPhi
 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning Typescript and React
