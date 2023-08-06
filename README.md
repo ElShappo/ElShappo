@@ -1,6 +1,6 @@
 ### Hi there, I am Deni!👋 I am a 4th year Applied Maths student at NRNU MEPhi
 
-- 🔭 I’m currently working on QuasarChat
+- 🔭 I’m currently working on QuasarChat and OzonParser
 - 🌱 I’m currently learning Typescript and React
 - :floppy_disk: I'm fond of using JavaScript, Sequelize ORM with PostgreSQL, Vue.JS, Quasar, HTML/CSS, C++, Java 
 - 📫 How to reach me: deni.shaipp@gmail.com
