@@ -1,9 +1,20 @@
-### Hi there, I am Deni!👋 I am a 4th year Applied Maths student at NRNU MEPhi
+# Hi there, I am Deni!👋 I am a 4th year Applied Maths & Comp Scie student at NRNU MEPhI.
+
+## My tech stack:
+
+- ⚡ ***Main***: HTML/CSS, JavaScript & TypeScript, React & Redux, Vue & Quasar, Node.JS & Express, PostgreSQL
+- 👯 ***Additional***: C/C++, Python, Java
+
+## What I do now:
 
 - 🔭 I’m currently working on QuasarChat and OzonParser
-- 🌱 I’m currently learning Typescript and React
-- :floppy_disk: I'm fond of using JavaScript, Sequelize ORM with PostgreSQL, Vue.JS, Quasar, HTML/CSS, C++, Java 
-- 📫 How to reach me: deni.shaipp@gmail.com
+- 🌱 I’m currently sharpening my skills at React & Redux
+
+## Inspiration
+- 👯 I would really love to collaborate on some interesting web projects
+
+## Contacts:
+- 📫 deni.shaipp@gmail.com
 
 <!--
 **deni-ops/deni-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
