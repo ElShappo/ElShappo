@@ -10,9 +10,6 @@
 - 🔭 I’m currently working on QuasarChat and OzonParser
 - 🌱 I’m currently sharpening my skills at React & Redux
 
-## Inspiration
-- 👯 I would really love to collaborate on some interesting web projects
-
 ## Contacts:
 - 📫 deni.shaipp@gmail.com
 
