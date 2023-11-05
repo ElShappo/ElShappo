@@ -7,8 +7,8 @@
 
 ## What I do now:
 
-- 🔭 I’m currently working on QuasarChat and OzonParser
-- 🌱 I’m currently sharpening my skills at React & Redux
+- 🔭 I’m currently working on Optima
+- 🌱 I’m currently sharpening my skills at Electron
 
 ## Contacts:
 - 📫 deni.shaipp@gmail.com
