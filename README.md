@@ -7,8 +7,8 @@
 
 ## What I do now:
 
-- 🔭 I’m currently working on Optima
-- 🌱 I’m currently sharpening my skills at Electron
+- 🔭 I’m currently working on my MEPhI research project
+- 🌱 I’m currently sharpening my skills at advanced TypeScript
 
 ## Contacts:
 - 📫 deni.shaipp@gmail.com
